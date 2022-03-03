@@ -1,0 +1,11 @@
+C:\Users\Saeful anwar\source\repos\p2\p2\bin\Debug\p2.exe.config
+C:\Users\Saeful anwar\source\repos\p2\p2\bin\Debug\p2.exe
+C:\Users\Saeful anwar\source\repos\p2\p2\bin\Debug\p2.pdb
+C:\Users\Saeful anwar\source\repos\p2\p2\obj\Debug\p2.csproj.AssemblyReference.cache
+C:\Users\Saeful anwar\source\repos\p2\p2\obj\Debug\p2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saeful anwar\source\repos\p2\p2\obj\Debug\p2.Form1.resources
+C:\Users\Saeful anwar\source\repos\p2\p2\obj\Debug\p2.Properties.Resources.resources
+C:\Users\Saeful anwar\source\repos\p2\p2\obj\Debug\p2.csproj.GenerateResource.cache
+C:\Users\Saeful anwar\source\repos\p2\p2\obj\Debug\p2.csproj.CoreCompileInputs.cache
+C:\Users\Saeful anwar\source\repos\p2\p2\obj\Debug\p2.exe
+C:\Users\Saeful anwar\source\repos\p2\p2\obj\Debug\p2.pdb
